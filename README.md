@@ -41,18 +41,22 @@ Classes and Objects
 Задача 12. Переопределить методы equals(), hashCode() и toString()
 Не пользуясь средствами автогенерации кода переопределить для класса Book методы equals(), hashCode() и toString().
 
-```public class Book {
+```java
+public class Book {
 private String title;
 private String author; private int price;
 private static int edition;
-}```
+}
+```
 
 Задача 13. Переопределить методы equals(), hashCode() и toString()
 Не пользуясь средствами автогенерации кода переопределить для класса ProgrammerBook методы equals(), hashCode() и toString().
 
-```public class ProgrammerBook extends Book{ private String language;
+```java
+public class ProgrammerBook extends Book{ private String language;
 private int level;
-}```
+}
+```
 
 Задача 14. Переопределить метод clone
 Не пользуясь средствами автогенерации кода переопределить для класса Book из задачи 12 метод clone().
