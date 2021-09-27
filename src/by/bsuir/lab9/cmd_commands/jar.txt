@@ -1,0 +1,5 @@
+from root
+
+java -jar /Users/nikita/Desktop/WebTech_1/out/artifacts/WebTech_1_jar/WebTech_1.jar
+out:
+Number of blue balls - 4 , Weight of basket: 1.15

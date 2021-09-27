@@ -1,0 +1,2 @@
+from src
+javac -d ../bin by/bsuir/lab9/items/Ball.java by/bsuir/lab9/items/Basket.java by/bsuir/lab9/Ninth.java

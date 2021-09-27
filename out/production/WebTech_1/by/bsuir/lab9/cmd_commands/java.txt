@@ -1,0 +1,2 @@
+java -cp ../bin by.bsuir.lab9.Ninth
+Number of blue balls - 4 , Weight of basket: 1.15
